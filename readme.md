@@ -85,7 +85,3 @@ Important: All information above (and below) is subject to change in the future!
 На данный момент язык находится на первых этапах разработки и не имеет полную рабочую версию. На этой странице будут выходить все обновления и изменения, поэтому не забудьте сохранить её, поставив звезду!
 
 Важно: вся выше (и ниже) изложенная информация подлежит изменениям в будущем!
-<<<<<<< HEAD
-=======
-
->>>>>>> e69afea (Added English section to readme. String declaration fixed, should be working now)
