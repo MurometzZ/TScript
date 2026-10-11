@@ -46,7 +46,7 @@ public class Lexer
 
                 token = source.Substring(start, i - start);
 
-                string[] possibleKeywords = ["цел", "вещественное", "строка", "логическое", "функ"];
+                string[] possibleKeywords = ["цел", "вещественное", "строка", "логическое", "функ", "если", "иначе", "вернуть"];
 
                 if (Array.Exists(possibleKeywords, t => t == token))
                 {
